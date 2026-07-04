@@ -1,5 +1,12 @@
 # Air Hockey Robot
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MCU-TMS320F2808-25344F?style=for-the-badge&labelColor=555555" alt="MCU: TMS320F2808" />
+  <img src="https://img.shields.io/badge/FIRMWARE-C%20%2B%20ASSEMBLY-0C8D7B?style=for-the-badge&labelColor=555555" alt="Firmware: C and Assembly" />
+  <img src="https://img.shields.io/badge/PROJECT-AIR%20HOCKEY%20ROBOT-C65D00?style=for-the-badge&labelColor=555555" alt="Project: Air Hockey Robot" />
+  <img src="https://img.shields.io/badge/VISION-PYTHON%20%2B%20OPENCV-1F5FDB?style=for-the-badge&labelColor=555555" alt="Vision: Python and OpenCV" />
+</p>
+
 Autonomous air hockey robot project developed in 2023. This repository combines the vision pipeline, embedded motor-control firmware, and mechanical design assets used to build a single-player air hockey system.
 
 ## Overview
